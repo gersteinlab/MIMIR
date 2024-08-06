@@ -1,4 +1,4 @@
-# Mimir
+# MIMIR - one-click agent fine-tuning
 <p align="center">
 <img width="500px" alt="Project Baize" src="assets/logo.jpg">
 </p>
