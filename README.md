@@ -40,6 +40,11 @@
 
 ## Citation
 If you find MIMIR useful, please cite the following reference:
-```bibtex
-
+```
+@article{deng2024mimir,
+  title={MIMIR: A Streamlined Platform for Personalized Agent Tuning in Domain Expertise},
+  author={Deng, Chunyuan and Tang, Xiangru and Zhao, Yilun and Wang, Hanming and Wang, Haoran and Zhou, Wangchunshu and Cohan, Arman and Gerstein, Mark},
+  journal={arXiv preprint arXiv:2404.04285},
+  year={2024}
+}
 ```
