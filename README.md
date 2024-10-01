@@ -1,8 +1,8 @@
-# MIMIR - one-click agent fine-tuning
+<img width="106" alt="image" src="https://github.com/user-attachments/assets/7fb66573-2fc5-4072-830e-bbf4936eb450"># MIMIR - one-click agent fine-tuning
 <p align="center">
 <img width="500px" alt="Project Baize" src="assets/logo.jpg">
 </p>
-<p align="center"><a href="">[📄 Paper (Coming Soon)]</a> | <a href="http://54.175.116.207:8501/">[🤗 Demo]</a> | <a href="https://youtu.be/8ZbfMFxMi8w">[🎬 Video]</a> </p>
+<p align="center"><a href="">[📄 Paper (Coming Soon)]</a> | <a href="http://54.175.116.207:8501/">[🤗 Demo]</a> | <a href="https://www.youtube.com/watch?v=7fVgv_T_xjc&ab_channel=ChunYuanDeng">[🎬 Video]</a> </p>
 <hr>
 
 # What is MIMIR?
