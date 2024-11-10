@@ -2,7 +2,7 @@
 <p align="center">
 <img width="500px" alt="Project Baize" src="assets/logo.jpg">
 </p>
-<p align="center"><a href="">[📄 Paper (Coming Soon)]</a> | <a href="http://54.175.116.207:8501/">[🤗 Demo]</a> | <a href="https://www.youtube.com/watch?v=7fVgv_T_xjc&ab_channel=ChunYuanDeng">[🎬 Video]</a> </p>
+<p align="center"><a href="https://aclanthology.org/2024.emnlp-demo.49/">[📄 Paper]</a> | <a href="http://54.175.116.207:8501/">[🤗 Demo]</a> | <a href="https://www.youtube.com/watch?v=7fVgv_T_xjc&ab_channel=ChunYuanDeng">[🎬 Video]</a> </p>
 <hr>
 
 # What is MIMIR?
