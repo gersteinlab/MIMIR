@@ -1,4 +1,4 @@
-<img width="106" alt="image" src="https://github.com/user-attachments/assets/7fb66573-2fc5-4072-830e-bbf4936eb450"># MIMIR - one-click agent fine-tuning
+# MIMIR - one-click agent fine-tuning
 <p align="center">
 <img width="500px" alt="Project Baize" src="assets/logo.jpg">
 </p>
